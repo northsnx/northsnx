@@ -7,8 +7,8 @@
 - ☁️ Cloud: Azure, Firebase  
 - 🔍 AI & ML: Face Recognition, Computer Vision
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ThanaphatSirithep&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThanaphatSirithep&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=northsnx&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=northsnx&layout=compact&theme=tokyonight)
 
 
 ---
