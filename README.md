@@ -13,4 +13,4 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23FF5722?logo=google-chrome&logoColor=white)](https://yourportfolio.com)  
 
 ---
-⭐️ More Us [northsnx.website]([https://github.com/ThanaphatSirithep](https://northsnx.wixsite.com/northnaphat))  
+⭐️ More Us [northsnx.website](https://northsnx.wixsite.com/northnaphat)
