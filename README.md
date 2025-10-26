@@ -1,51 +1,99 @@
-# 🙋‍♂️ Hello! I'm Thanaphat Sirithep (North)  
-🚀 Computer Engineering | Passionate about Coding & Tech  
+<!-- About Me -->
+<table>
+<tr>
+<td>
+<div align="left">
+<img src="https://northsnx.github.io/portfolio/assets/profile.jpeg" alt="profile" width="180" align="left" style="margin-right: 20px; border-radius: 12px;"/>
+Hi, I'm **THANAPHAT SIRITHEP (NORTH)** 🚀  
+Computer Engineering Student at Sripatum University (Expected 2026, GPA 3.30)  
+  
+I love breaking bugs (sometimes accidentally creating them too 😅).  
+I tinker with Front-end, Mobile Apps, and Cloud stuff.  
+Built projects like **Sakdee Care+ Laundry App**, and there’s more fun stuff in the pipeline.  
 
-### 🛠️ Skills  
-- 🖥️ **Programming Languages**: JavaScript, Python, C++  
-- 📱 **Mobile Development**: React Native (Expo)  
-- ☁️ **Cloud**: Azure, Firebase  
-- 🔍 **AI & ML**: Face Recognition, Computer Vision  
+Currently hunting a role as **Website Developer & Software Engineer** for a Co-op spot (Jan 5 – Apr 24, 2026) — so if you’ve got code to throw at me, I’ll catch it with style… and caffeine ☕😎.
+</div>
+</td>
+</tr>
+</table>
 
----
 
-### 🔗 Connect with me  
-[![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white)](https://github.com/ThanaphatSirithep)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23FF5722?logo=google-chrome&logoColor=white)](https://yourportfolio.com)
+<!-- Profile Views & Stats -->
+<div align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:5px; margin-top:10px; margin-bottom:10px;">
 
----
+  <!-- Profile Views -->
+  <a href="https://github.com/northsnx" target="_blank">
+    <img src="https://komarev.com/ghpvc/?username=northsnx&label=Profile%20views&color=5e81ac&style=for-the-badge&logo=github&logoColor=white" alt="Profile Views Badge" /></a>
 
-⭐️ **More About Me** [northsnx.website](https://northsnx.wixsite.com/northnaphat)
+  <!-- Total Stars -->
+  <a href="https://github.com/northsnx?tab=repositories&sort=stargazers" target="_blank">
+    <img alt="Total Stars" title="Total stars on GitHub" src="https://img.shields.io/github/stars/northsnx?style=for-the-badge&label=Stars&color=bf616a&logo=github" /></a>
 
----
-
-### 💫 About Me  
-- 🌱 Currently, I'm developing my programming skills and exploring more about AI and Cloud technologies.  
-- 📚 I'm a second-year Computer Engineering student at Sripatum University, and I am eager to apply my knowledge to real-world projects.
-
----
-
-### ⚡ Github Status  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=northsnx&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=northsnx&layout=compact&theme=tokyonight)
-
----
-
-### 💻 Languages and Tools I Use:
-
-<div align="center">
-  <a href="https://www.javascript.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
-  <a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
-  <a href="https://reactnative.dev/"><img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="42" height="42" /></a>
-  <a href="https://azure.microsoft.com/"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="42" height="42" /></a>
-  <a href="https://firebase.google.com/"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="42" height="42" /></a>
+  <!-- Followers -->
+  <a href="https://github.com/northsnx?tab=followers" target="_blank">
+    <img alt="Followers" title="Follow me on GitHub" src="https://img.shields.io/github/followers/northsnx?style=for-the-badge&label=Followers&color=5e81ac&logo=github" /></a>
 </div>
 
----
+<!-- Connect -->
+<h3 align="center">🔗 Contact Me</h3>
+<div align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:12px;">
+  <a href="https://github.com/northsnx" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://linkedin.com/in/north.siri" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://northsnx.github.io/portfolio" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://northsnx.github.io/portfolio/assets/SuperResume-northsnx.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-4CAF50?style=for-the-badge&logo=adobe&logoColor=white" alt="Resume" />
+  </a>
+  <a href="https://www.facebook.com/thananorth" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+</div>
 
-### 🔍 Check out some of my projects  
-- **Face Scanning for Attendance**: A system using Azure Face API to automate attendance.
-- **Laundry App (Sakdee Care+)**: An app that helps users locate laundry services and get weather-based laundry recommendations.
+<br>
+<hr>
 
----
+<!-- GitHub Status -->
+<h3 align="center">⚡ Github Status </h3>
+<div align="center" >
+  <img width="398" src="https://github-readme-stats.vercel.app/api?username=northsnx&count_private=true&show_icons=true&theme=nord&rank_icon=github&border_radius=8" />
+  <img width="420" src="https://nirzak-streak-stats.vercel.app/?user=northsnx&theme=nord&hide_border=false" alt="GitHub Streak Stats" />
+
+<br>
+<hr>
+
+<!-- Languages & Tools -->
+<h3 align="center">💻 Languages and Tools I Use</h3>
+<div align="center" >
+   <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,nodejs,mysql,mongodb,firebase,azure,postman,git,github,vscode,c,cpp,python,linux,arduino" alt="Skills" />
+</div>
+
+<br>
+<hr>
+
+
+<!-- Projects -->
+<div align="center">
+  <h3>🔍 Check out some of my projects</h3>
+  <br>
+  <p align="center">
+    <a href="https://github.com/northsnx/portfolio">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=northsnx&repo=portfolio&theme=default&title_color=000000&icon_color=0366d6&text_color=333333&bg_color=ffffff" /></a>
+    <a href="https://github.com/northsnx/SAKDEE.App">
+     <img src="https://github-readme-stats.vercel.app/api/pin/?username=northsnx&repo=SAKDEE.App&theme=default&title_color=000000&icon_color=0366d6&text_color=333333&bg_color=ffffff" /></a>
+    <a href="https://github.com/northsnx/rakkira.spu">
+     <img src="https://github-readme-stats.vercel.app/api/pin/?username=northsnx&repo=rakkira.spu&theme=default&title_color=000000&icon_color=0366d6&text_color=333333&bg_color=ffffff" /></a>
+     <a href="https://github.com/northsnx/ExtendX">
+     <img src="https://github-readme-stats.vercel.app/api/pin/?username=northsnx&repo=ExtendX&theme=default&title_color=000000&icon_color=0366d6&text_color=333333&bg_color=ffffff" /></a>
+  </p>
+</div>
+
+<!-- Footer -->
+<footer>
+  <p>&copy; 2025 northsnx | All Rights Reserved</p>
+</footer>
+
