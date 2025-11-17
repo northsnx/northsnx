@@ -4,6 +4,7 @@
 <td>
 <div align="left">
 <img src="https://northsnx.github.io/portfolio/assets/profile.jpeg" alt="profile" width="180" align="left" style="margin-right: 20px; border-radius: 12px;"/>
+
 Hi, I'm **THANAPHAT SIRITHEP (NORTH)** 🚀  
 Computer Engineering Student at Sripatum University (Expected 2026, GPA 3.30)  
   
